@@ -2,5 +2,9 @@
 
 Подробности читайте тут: https://config-v2.github.io/
 
-##Установка 
+## Установка 
+копируем файлы или команда ssh 
+```
+git clone https://github.com/config-v2/repository .; rd readme.md; rm -r -fo .git
 
+```
